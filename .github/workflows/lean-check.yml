@@ -1,0 +1,18 @@
+name: Lean check
+
+# Started by hand: Actions tab -> Lean check -> Run workflow.
+on:
+  workflow_dispatch:
+
+jobs:
+  lean:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: leanprover/lean-action@v1
+        with:
+          auto-config: false
+          use-mathlib-cache: true
+      - name: Main files and negative controls
+        run: python3 scripts/check_lean.py

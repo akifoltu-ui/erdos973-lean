@@ -1,0 +1,32 @@
+{
+  "upload_type": "software",
+  "title": "Erdős Problem #973: witnesses, checker, Lean 4 files and OpenTimestamps proofs",
+  "creators": [
+    {
+      "name": "Oltulu, Mehmet Akif",
+      "affiliation": "Maovera AI Research",
+      "orcid": "0009-0003-0928-0854"
+    }
+  ],
+  "description": "<p>Software record of the paper: M. A. Oltulu, <em>An equal-modulus family for Erdős Problem #973: exact values for n ≤ 6, an upper bound for every n, and the limit constant ε∞ = 0.07725484…</em>, version 1.0, Zenodo, 2026, <a href=\"https://doi.org/10.5281/zenodo.24543535\">doi:10.5281/zenodo.24543535</a>.</p><p>Contents: the 40-digit witnesses for n = 3, 4, 5, 6 with the exact rational checker; the Lean 4 files of the records TURAN973_v04, TURAN973_v05 and TURAN973_v06_r2 (bounds for n = 21, 31, 50, 75; the equal-modulus law for every n; Δ*_n ≤ B for n = 21, 31, 50, 75) with their negative controls and a script that compiles them; the fourteen OpenTimestamps proofs of the dated records; the record table; the SHA-256 digests of all files.</p><p>Türkçe: Bu kayıt, yukarıdaki makalenin yazılım kaydıdır. İçerik: n = 3, 4, 5, 6 için 40 haneli tanıklar ve kesin rasyonel denetçi; TURAN973_v04, TURAN973_v05 ve TURAN973_v06_r2 kayıtlarının Lean 4 dosyaları (n = 21, 31, 50, 75 için üst sınırlar; her n için eşit-modül yasası; n = 21, 31, 50, 75 için Δ*_n ≤ B), negatif kontrolleri ve onları derleyen betikle; tarihli kayıtların on dört OpenTimestamps kanıtı; kayıt tablosu; bütün dosyaların SHA-256 özetleri.</p>",
+  "license": "apache-2.0",
+  "keywords": [
+    "Erdős problems",
+    "Turán power sums",
+    "exterior power sums",
+    "Lean 4",
+    "Mathlib",
+    "formal verification",
+    "OpenTimestamps"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24543535",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint"
+    }
+  ],
+  "language": "eng",
+  "version": "1.0.0",
+  "access_right": "open"
+}

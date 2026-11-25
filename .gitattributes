@@ -1,0 +1,2 @@
+# keep every file byte-identical to MANIFEST_SHA256.txt on every platform
+* -text

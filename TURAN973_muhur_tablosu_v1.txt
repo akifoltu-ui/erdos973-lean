@@ -1,0 +1,18 @@
+TURAN973 muhur tablosu v1 | 2026-11-25 21:25:46
+ONCELIK_TURAN973_v01_kasa.7z | a63ac88157e42d1f749992a7f9128579d593800afa9f7070529142a005a60b8f | 41392 bayt | 2026-11-03 07:03 | ots bagli True | Bitcoin 974341 (hepsi 974341,974343,974381) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v02_r2_kasa.7z | 2ec3eec0f4574d6bb2f598ebcfac5f2b37895dc58bcf2a2566036dd4efe22c9e | 48928 bayt | 2026-11-03 20:34 | ots bagli True | Bitcoin 974419 (hepsi 974419,974423,974430) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v03_kasa.7z | 4bd0395ec77b9a7d6cd66a3d569d2083311e7cf5a26dccd65fe03a6460a59dd9 | 34800 bayt | 2026-11-06 00:41 | ots bagli True | Bitcoin 974715 (hepsi 974715,974717) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v04_kasa.7z | 3435d788b82188b17d453a47d2a3259ec7d78a89fab3f6ed93f9e115e6037b6d | 26976 bayt | 2026-11-06 03:38 | ots bagli True | Bitcoin 974742 (hepsi 974742,974743,974752,974757) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v05_kasa.7z | acbe67da42a0675832d7c7d31ae13d029506cfab11bc91f9f8878d68b41037f6 | 27024 bayt | 2026-11-07 00:56 | ots bagli True | Bitcoin 974864 (hepsi 974864) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v06_r2_kasa.7z | 13ae32aa11593c1beee536d7707d69cf0a1bc2a47a1c7baaac853f80e41ab225 | 27248 bayt | 2026-11-07 03:11 | ots bagli True | Bitcoin 974874 (hepsi 974874) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v07_kasa.7z | 21c1d0de88d28c0e295b2b6b0f120179426cb9a33e65ac73ef742f15209036f8 | 9199 bayt | 2026-11-07 05:47 | ots bagli True | Bitcoin 974883 (hepsi 974883,974890) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v08_kasa.7z | f51f1995ca0415bbfcaac713319685bcfeb674fab4053835e948a8091e7224fc | 21904 bayt | 2026-11-07 06:32 | ots bagli True | Bitcoin 974888 (hepsi 974888,974890) | yedek kasa AYNI | yedek ots AYNI
+TURAN973_v09.7z | eaadf35c9676ae5a55a9d4c318de50f3ca3cc53ea3b17ebcc337887df005f4b6 | 4943 bayt | 2026-11-07 14:05 | ots bagli True | Bitcoin 974928 (hepsi 974928,974947,974962) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v10_kasa.7z | aeb8904dae202385260a399f8e28652e368d61f9a7e840d72ae75f6ac02cb53a | 22032 bayt | 2026-11-07 19:55 | ots bagli True | Bitcoin 974956 (hepsi 974956,974962) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v11_kasa.7z | 804e87f5ec32cac41bffea919a0be75efac6ffc743f68902ff9d039249626821 | 20384 bayt | 2026-11-08 12:15 | ots bagli True | Bitcoin 975049 (hepsi 975049,975050,975060,975074) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v12_kasa.7z | 6f511bec36c9a47645595af3cbd579f3d65a1c12a5ffce3eaf68a35fba0abb1b | 39392 bayt | 2026-11-09 08:42 | ots bagli True | Bitcoin 975142 (hepsi 975142,975143,975147,975152) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v13_kasa.7z | d5aabe9c857360e986a9ccc7669e71864ee6b2936b9d010e8bc7032d08597a9d | 984032 bayt | 2026-11-19 20:32 | ots bagli True | Bitcoin 976624 (hepsi 976624,976629,976646,976662) | yedek kasa AYNI | yedek ots AYNI
+ONCELIK_TURAN973_v14_kasa.7z | 467bc5365249e13edc702cab14dea109f013d9fe8e5833f99c24c12ea997c797 | 339920 bayt | 2026-11-25 17:02 | ots bagli True | Bitcoin 977531 (hepsi 977531,977532) | yedek kasa AYNI | yedek ots AYNI
+OZET: 14 kasa | ots bagli 14/14 | Bitcoin'de 14/14 | yedek kasa AYNI 14/14 | yedek ots AYNI 14/14
+NEG bozuk ozet bagli gorunmemeli (False beklenir): False
+NEG .ots ile .ots.bak ayni gorunmemeli (False beklenir): False
